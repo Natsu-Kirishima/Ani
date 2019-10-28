@@ -1,3 +1,3 @@
 <?php
-	echo "This is Home Page";
+	echo "You're in Home Page!";
 ?>
